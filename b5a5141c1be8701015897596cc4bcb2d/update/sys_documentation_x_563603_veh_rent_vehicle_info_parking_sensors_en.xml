@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="parking_sensors" label="Parking Sensors" language="en" table="x_563603_veh_rent_vehicle_info">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>parking_sensors</element>
+            <help/>
+            <hint/>
+            <label>Parking Sensors</label>
+            <language>en</language>
+            <name>x_563603_veh_rent_vehicle_info</name>
+            <plural>Parking Sensors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 17:27:48</sys_created_on>
+            <sys_id>b3f5a8581b2c701015897596cc4bcbca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parking Sensors</sys_name>
+            <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+            <sys_update_name>sys_documentation_x_563603_veh_rent_vehicle_info_parking_sensors_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 17:27:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

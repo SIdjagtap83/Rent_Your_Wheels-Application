@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Vehicle Info" max_length="40" name="x_563603_veh_rent_vehicle_info" sizeclass="1" type="collection">
+        <element label="Agent Email" max_length="40" name="agent_email" type="string"/>
+        <element label="Agent Name" max_length="20" name="agent_name" read_only="true" type="string"/>
+        <element label="Agent Phone" max_length="40" name="agent_phone" type="phone_number_e164"/>
+        <element label="Air Conditioner" max_length="40" name="air_conditioner" type="boolean"/>
+        <element label="Anti-Lock Braking System" max_length="40" name="anti_lock_braking_system" type="boolean"/>
+        <element label="Bluetooth Connectivity" max_length="40" name="bluetooth_connectivity" type="boolean"/>
+        <element label="Dash Camera" max_length="40" name="dash_camera" type="boolean"/>
+        <element label="Displacement (cc)" max_length="40" name="displacement_cc" type="integer"/>
+        <element label="Distance Travelled (km)" max_length="20" name="distance_travelled_km" type="decimal"/>
+        <element label="Engine Type" max_length="40" name="engine_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Enterprise" max_length="40" name="enterprise" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Hero Honda" value="hero_honda"/>
+                <element inactive_on_update="false" label="KIA Motors" value="kia_motors"/>
+                <element inactive_on_update="false" label="Maruti Suzuki" value="maruti_suzuki"/>
+                <element inactive_on_update="false" label="TVS Motors" value="tvs_motors"/>
+            </choice>
+        </element>
+        <element label="Fuel Tank Capacity (litres)" max_length="40" name="fuel_tank_capacity_litres" type="integer"/>
+        <element choice="3" label="Fuel Type" max_length="40" name="fuel_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Diesel" value="diesel"/>
+                <element inactive_on_update="false" label="Electric" value="ev"/>
+                <element inactive_on_update="false" label="Petrol" value="petrol"/>
+            </choice>
+        </element>
+        <element label="Height (mm)" max_length="40" name="height_mm" type="integer"/>
+        <element label="Length (mm)" max_length="40" name="length_mm" type="integer"/>
+        <element label="Max Power" max_length="40" name="max_power" type="string"/>
+        <element label="Max Torque" max_length="40" name="max_torque" type="string"/>
+        <element label="Mileage" max_length="20" name="mileage" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true" label="Model Name" max_length="40" name="model_name" type="string"/>
+        <element label="No Of Airbags" max_length="40" name="no_of_airbags" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Vehicle Number" max_length="40" name="number" type="string"/>
+        <element label="Parking Sensors" max_length="40" name="parking_sensors" type="boolean"/>
+        <element label="Seat Capacity" max_length="40" name="seat_capacity" type="integer"/>
+        <element choice="3" default="Manual" label="Transmission Type" max_length="40" name="transmission_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Automatic" value="automatic"/>
+                <element inactive_on_update="false" label="Manual" value="manual"/>
+            </choice>
+        </element>
+        <element label="Tyre-Pressure Sensor" max_length="40" name="tyre_pressure_sensor" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Vehicle Name" max_length="40" name="vehicle_name" type="string"/>
+        <element default="20" label="Width (mm)" max_length="40" name="width_mm" type="integer"/>
+    </element>
+</database>
