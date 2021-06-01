@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Comfort &amp; Convenience" section_id="a379e41c1b2c701015897596cc4bcb44" sys_domain="global" table="x_563603_veh_rent_vehicle_info" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bluetooth_connectivity</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 17:43:06</sys_created_on>
+            <sys_id>0889e41c1b2c701015897596cc4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comfort &amp; Convenience" display_value="Comfort &amp; Convenience" name="x_563603_veh_rent_vehicle_info" sys_domain="global" view="Default view">a379e41c1b2c701015897596cc4bcb44</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 17:43:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parking_sensors</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 17:43:06</sys_created_on>
+            <sys_id>8889e41c1b2c701015897596cc4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comfort &amp; Convenience" display_value="Comfort &amp; Convenience" name="x_563603_veh_rent_vehicle_info" sys_domain="global" view="Default view">a379e41c1b2c701015897596cc4bcb44</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 17:43:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 17:43:06</sys_created_on>
+            <sys_id>0c89e41c1b2c701015897596cc4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comfort &amp; Convenience" display_value="Comfort &amp; Convenience" name="x_563603_veh_rent_vehicle_info" sys_domain="global" view="Default view">a379e41c1b2c701015897596cc4bcb44</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 17:43:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dash_camera</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 17:43:06</sys_created_on>
+            <sys_id>8c89e41c1b2c701015897596cc4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comfort &amp; Convenience" display_value="Comfort &amp; Convenience" name="x_563603_veh_rent_vehicle_info" sys_domain="global" view="Default view">a379e41c1b2c701015897596cc4bcb44</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 17:43:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>air_conditioner</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 17:43:06</sys_created_on>
+            <sys_id>0089e41c1b2c701015897596cc4bcbe8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Comfort &amp; Convenience" display_value="Comfort &amp; Convenience" name="x_563603_veh_rent_vehicle_info" sys_domain="global" view="Default view">a379e41c1b2c701015897596cc4bcb44</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 17:43:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Comfort &amp; Convenience</caption>
+            <header>false</header>
+            <name>x_563603_veh_rent_vehicle_info</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 17:43:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a379e41c1b2c701015897596cc4bcb44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_563603_veh_rent_vehicle_info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+            <sys_update_name>sys_ui_section_a379e41c1b2c701015897596cc4bcb44</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 17:43:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

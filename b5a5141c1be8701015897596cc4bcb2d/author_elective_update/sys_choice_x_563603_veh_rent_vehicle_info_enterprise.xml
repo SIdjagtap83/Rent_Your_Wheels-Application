@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="enterprise" table="x_563603_veh_rent_vehicle_info" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>enterprise</element>
+            <name>x_563603_veh_rent_vehicle_info</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 16:24:56</sys_created_on>
+            <sys_id>3697d85c1be8701015897596cc4bcb9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>enterprise</sys_name>
+            <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+            <sys_update_name>sys_choice_x_563603_veh_rent_vehicle_info_enterprise</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 16:24:56</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enterprise</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hero Honda</label>
+            <language>en</language>
+            <name>x_563603_veh_rent_vehicle_info</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 16:24:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b297d85c1be8701015897596cc4bcba0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 16:24:56</sys_updated_on>
+            <value>hero_honda</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enterprise</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>KIA Motors</label>
+            <language>en</language>
+            <name>x_563603_veh_rent_vehicle_info</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 16:24:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a97d85c1be8701015897596cc4bcb9c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 16:24:56</sys_updated_on>
+            <value>kia_motors</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enterprise</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Maruti Suzuki</label>
+            <language>en</language>
+            <name>x_563603_veh_rent_vehicle_info</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 16:24:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b297d85c1be8701015897596cc4bcba5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 16:24:56</sys_updated_on>
+            <value>maruti_suzuki</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>enterprise</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TVS Motors</label>
+            <language>en</language>
+            <name>x_563603_veh_rent_vehicle_info</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-05-31 16:24:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba97d85c1be8701015897596cc4bcba2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-05-31 16:24:56</sys_updated_on>
+            <value>tvs_motors</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
