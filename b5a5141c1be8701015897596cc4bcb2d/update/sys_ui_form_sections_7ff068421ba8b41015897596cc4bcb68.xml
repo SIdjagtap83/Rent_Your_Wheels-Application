@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="7ff068421ba8b41015897596cc4bcb68" sys_domain="global" table="x_563603_veh_rent_vehicle_details" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c01e4821ba8b41015897596cc4bcb63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">8401e4821ba8b41015897596cc4bcb5b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4001e4821ba8b41015897596cc4bcb32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">0401e4821ba8b41015897596cc4bcb2c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c01e4821ba8b41015897596cc4bcb3b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Agent Details" display_value="Agent Details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">8c01e4821ba8b41015897596cc4bcb37</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8401e4821ba8b41015897596cc4bcb37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Engine &amp; Transmission" display_value="Engine &amp; Transmission" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">4801e4821ba8b41015897596cc4bcb32</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c01e4821ba8b41015897596cc4bcb77</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Dimensions &amp; Capacity" display_value="Dimensions &amp; Capacity" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">dc01e4821ba8b41015897596cc4bcb72</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d401e4821ba8b41015897596cc4bcb72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Fuel &amp; Performance" display_value="Fuel &amp; Performance" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">5001e4821ba8b41015897596cc4bcb6e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c01e4821ba8b41015897596cc4bcb5a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Comfort &amp; Convenience" display_value="Comfort &amp; Convenience" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">4401e4821ba8b41015897596cc4bcb3c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c401e4821ba8b41015897596cc4bcb18</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Safety" display_value="Safety" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">0801e4821ba8b41015897596cc4bcb12</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d801e4821ba8b41015897596cc4bcb7c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Process Engine" display_value="Process Engine" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">1401e4821ba8b41015897596cc4bcb78</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5801e4821ba8b41015897596cc4bcb6d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Picture" display_value="Picture" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">5801e4821ba8b41015897596cc4bcb69</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5001e4821ba8b41015897596cc4bcb69</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Pricing" display_value="Pricing" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">0401e4821ba8b41015897596cc4bcb64</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0c01e4821ba8b41015897596cc4bcb2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_563603_veh_rent_vehicle_details" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">7ff068421ba8b41015897596cc4bcb68</sys_ui_form>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="80f965291be4741015897596cc4bcbee">c001e4821ba8b41015897596cc4bcb19</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:20</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_563603_veh_rent_vehicle_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ff068421ba8b41015897596cc4bcb68</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_563603_veh_rent_vehicle_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_7ff068421ba8b41015897596cc4bcb68</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="rent app" name="rent_app">80f965291be4741015897596cc4bcbee</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

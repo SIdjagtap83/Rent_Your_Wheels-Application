@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Vehicle Details</name>
+        <order>100</order>
+        <roles>x_563603_veh_rent.vehicle_details_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 03:28:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4c8f1c021ba8b41015897596cc4bcb08</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Details</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_update_name>sys_app_application_4c8f1c021ba8b41015897596cc4bcb08</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 03:28:48</sys_updated_on>
+        <title>Vehicle Details</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</application>
+        <file_path/>
+        <instance_id>31ad28c6dbc3bf8049eac5970596199b</instance_id>
+        <instance_name>dev90761</instance_name>
+        <name>sys_app_application_4c8f1c021ba8b41015897596cc4bcb08</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name>Vehicle Details</name><order>100</order><roles>x_563603_veh_rent.vehicle_details_user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-06 03:28:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>4c8f1c021ba8b41015897596cc4bcb08</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Vehicle Details</sys_name><sys_overrides/><sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package><sys_policy/><sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope><sys_update_name>sys_app_application_4c8f1c021ba8b41015897596cc4bcb08</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-06 03:28:48</sys_updated_on><title>Vehicle Details</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-875329595</payload_hash>
+        <record_name>Vehicle Details</record_name>
+        <reverted_from/>
+        <source>5740f92c1ba8b01015897596cc4bcbdc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 03:28:48</sys_created_on>
+        <sys_id>4c8f1c021ba8b41015897596cc4bcb0b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179df5da9eb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 03:28:48</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>848f1c0246a8b410a8369106b98d990b</update_guid>
+        <update_guid_history>848f1c0246a8b410a8369106b98d990b:-875329595</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Vehicle Details">881028421ba8b41015897596cc4bcbbd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 03:31:14</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>10d98b9974f84258838db1be11842a40</sys_id>
+        <sys_metadata>4c8f1c021ba8b41015897596cc4bcb08</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Vehicle Details</sys_name>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_scope_delete display_value="">87da4bff72c8415ababcaf1146208e31</sys_scope_delete>
+        <sys_update_name>sys_app_application_4c8f1c021ba8b41015897596cc4bcb08</sys_update_name>
+        <sys_update_version display_value="sys_app_application_4c8f1c021ba8b41015897596cc4bcb08">4c8f1c021ba8b41015897596cc4bcb0b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 03:31:14</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

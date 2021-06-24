@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sp_portal_catalog">
+    <m2m_sp_portal_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <order>100</order>
+        <sc_catalog display_value="Rent any Vehicle ">ed091c9c1be8701015897596cc4bcbe5</sc_catalog>
+        <sp_portal display_value="Rent Your Wheels">74a5e2001bf0b01015897596cc4bcb87</sp_portal>
+        <sys_class_name>m2m_sp_portal_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-13 06:34:54</sys_created_on>
+        <sys_id>fe3d0d9c1b78b01015897596cc4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rent any Vehicle .Rent Your Wheels</sys_name>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_update_name>m2m_sp_portal_catalog_fe3d0d9c1b78b01015897596cc4bcbbd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-13 06:34:54</sys_updated_on>
+    </m2m_sp_portal_catalog>
+</record_update>

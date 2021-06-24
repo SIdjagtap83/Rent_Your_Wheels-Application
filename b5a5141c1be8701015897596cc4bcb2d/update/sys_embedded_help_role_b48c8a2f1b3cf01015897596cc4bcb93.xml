@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <role display_value="x_563603_veh_rent.delivery_manager" name="x_563603_veh_rent.delivery_manager">1f2c862f1b3cf01015897596cc4bcb63</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-23 13:31:38</sys_created_on>
+        <sys_id>b48c8a2f1b3cf01015897596cc4bcb93</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1f2c862f1b3cf01015897596cc4bcb63</sys_name>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b48c8a2f1b3cf01015897596cc4bcb93</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-23 13:31:38</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

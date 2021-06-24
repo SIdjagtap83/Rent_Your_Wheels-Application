@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="TATA Nexon">ef01cd8a1be8b41015897596cc4bcb88</sc_cat_item>
+        <sc_category display_value="SUV">597896801ba4701015897596cc4bcba5</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 05:57:25</sys_created_on>
+        <sys_id>4181cd8a1be8b41015897596cc4bcbd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SUV.TATA Nexon</sys_name>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_update_name>sc_cat_item_category_4181cd8a1be8b41015897596cc4bcbd7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 05:57:25</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</application>
+        <file_path/>
+        <instance_id>31ad28c6dbc3bf8049eac5970596199b</instance_id>
+        <instance_name>dev90761</instance_name>
+        <name>sc_cat_item_category_4181cd8a1be8b41015897596cc4bcbd7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="TATA Nexon">ef01cd8a1be8b41015897596cc4bcb88</sc_cat_item><sc_category display_value="SUV">597896801ba4701015897596cc4bcba5</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-06 05:57:25</sys_created_on><sys_id>4181cd8a1be8b41015897596cc4bcbd7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>SUV.TATA Nexon</sys_name><sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package><sys_policy/><sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope><sys_update_name>sc_cat_item_category_4181cd8a1be8b41015897596cc4bcbd7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-06 05:57:25</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-133576313</payload_hash>
+        <record_name>SUV.TATA Nexon</record_name>
+        <reverted_from/>
+        <source>5740f92c1ba8b01015897596cc4bcbdc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 05:57:25</sys_created_on>
+        <sys_id>8181cd8a1be8b41015897596cc4bcbda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179dfe5ba140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 05:57:25</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>c981cd8a32e8b410fbd7839d382dc5d9</update_guid>
+        <update_guid_history>c981cd8a32e8b410fbd7839d382dc5d9:-133576313</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="SUV.TATA Nexon">238bd7861ba0f41015897596cc4bcbd5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-06 17:10:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>3664da6983db4c8a95cca9951bd1be44</sys_id>
+        <sys_metadata>4181cd8a1be8b41015897596cc4bcbd7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SUV.TATA Nexon</sys_name>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_scope_delete display_value="">87da4bff72c8415ababcaf1146208e31</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_4181cd8a1be8b41015897596cc4bcbd7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_4181cd8a1be8b41015897596cc4bcbd7">8181cd8a1be8b41015897596cc4bcbda</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-06 17:10:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
