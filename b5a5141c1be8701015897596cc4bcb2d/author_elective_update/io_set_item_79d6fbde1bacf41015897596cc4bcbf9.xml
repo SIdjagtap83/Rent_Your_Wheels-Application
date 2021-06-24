@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item">
+    <io_set_item action="DELETE">
+        <order>100</order>
+        <sc_cat_item display_value="KIA Seltos">11aa6f961bacf41015897596cc4bcb73</sc_cat_item>
+        <sys_class_name>io_set_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 13:48:27</sys_created_on>
+        <sys_id>79d6fbde1bacf41015897596cc4bcbf9</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Requestor information.KIA Seltos</sys_name>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_update_name>io_set_item_79d6fbde1bacf41015897596cc4bcbf9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 13:48:27</sys_updated_on>
+        <variable_set display_value="Requestor information">b6749a5d1b6c341015897596cc4bcbe6</variable_set>
+    </io_set_item>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</application>
+        <file_path/>
+        <instance_id>31ad28c6dbc3bf8049eac5970596199b</instance_id>
+        <instance_name>dev90761</instance_name>
+        <name>io_set_item_79d6fbde1bacf41015897596cc4bcbf9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="io_set_item"><io_set_item action="INSERT_OR_UPDATE"><order>100</order><sc_cat_item display_value="KIA Seltos">11aa6f961bacf41015897596cc4bcb73</sc_cat_item><sys_class_name>io_set_item</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-07 13:48:27</sys_created_on><sys_id>79d6fbde1bacf41015897596cc4bcbf9</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Requestor information.KIA Seltos</sys_name><sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package><sys_policy/><sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope><sys_update_name>io_set_item_79d6fbde1bacf41015897596cc4bcbf9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-07 13:48:27</sys_updated_on><variable_set display_value="Requestor information">b6749a5d1b6c341015897596cc4bcbe6</variable_set></io_set_item></record_update>]]></payload>
+        <payload_hash>1939236540</payload_hash>
+        <record_name>Requestor information.KIA Seltos</record_name>
+        <reverted_from/>
+        <source>5740f92c1ba8b01015897596cc4bcbdc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 13:48:28</sys_created_on>
+        <sys_id>4fe67fde1bacf41015897596cc4bcb04</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>179e6bb57e70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 13:48:28</sys_updated_on>
+        <type>Catalog Variable Set</type>
+        <update_guid>87e67fde6bacf410d90f56c026eb8c04</update_guid>
+        <update_guid_history>87e67fde6bacf410d90f56c026eb8c04:1939236540</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Requestor information.KIA Seltos">d489bf521becf41015897596cc4bcbc7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-07 13:59:44</sys_created_on>
+        <sys_db_object display_value="" name="io_set_item">io_set_item</sys_db_object>
+        <sys_id>12e51bdb1d7e41d481de8d1a6a153a10</sys_id>
+        <sys_metadata>79d6fbde1bacf41015897596cc4bcbf9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Requestor information.KIA Seltos</sys_name>
+        <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+        <sys_scope_delete display_value="">87da4bff72c8415ababcaf1146208e31</sys_scope_delete>
+        <sys_update_name>io_set_item_79d6fbde1bacf41015897596cc4bcbf9</sys_update_name>
+        <sys_update_version display_value="io_set_item_79d6fbde1bacf41015897596cc4bcbf9">4fe67fde1bacf41015897596cc4bcb04</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-07 13:59:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

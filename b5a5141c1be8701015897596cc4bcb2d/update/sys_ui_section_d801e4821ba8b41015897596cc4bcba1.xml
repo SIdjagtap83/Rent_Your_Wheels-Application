@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Vehicle info" section_id="d801e4821ba8b41015897596cc4bcba1" sys_domain="global" table="x_563603_veh_rent_vehicle_details" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>ce3760c61ba8b41015897596cc4bcbfb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <text>${gs.getMessage("Add relevant tags to the Meta field using comma-separated list of tags. These tags will be used while searching the item. Not applicable if AI Search is configured.")}</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_veh_model</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>0a37a0c61ba8b41015897596cc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">d801e4821ba8b41015897596cc4bcba1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_veh_distance</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>8e37a0c61ba8b41015897596cc4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">d801e4821ba8b41015897596cc4bcba1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_veh_company</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>0637a0c61ba8b41015897596cc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">d801e4821ba8b41015897596cc4bcba1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>8a37a0c61ba8b41015897596cc4bcb01</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">d801e4821ba8b41015897596cc4bcba1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>0237a0c61ba8b41015897596cc4bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">d801e4821ba8b41015897596cc4bcba1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ce3760c61ba8b41015897596cc4bcbfb</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>8637a0c61ba8b41015897596cc4bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">d801e4821ba8b41015897596cc4bcba1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>meta</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:31</sys_created_on>
+            <sys_id>0e37a0c61ba8b41015897596cc4bcb02</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Vehicle info" display_value="Vehicle info" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">d801e4821ba8b41015897596cc4bcba1</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Vehicle info</caption>
+            <header>false</header>
+            <name>x_563603_veh_rent_vehicle_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d801e4821ba8b41015897596cc4bcba1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>x_563603_veh_rent_vehicle_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+            <sys_update_name>sys_ui_section_d801e4821ba8b41015897596cc4bcba1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:29</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Picture" section_id="1c01e4821ba8b41015897596cc4bcb97" sys_domain="global" table="x_563603_veh_rent_vehicle_details" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:32</sys_created_on>
+            <sys_id>9637a0c61ba8b41015897596cc4bcb50</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:32</sys_updated_on>
+            <text>${gs.getMessage('Add an icon and picture for display')}</text>
+            <type display_value="Section Details">19756e5ec3313000bac1addbdfba8f18</type>
+        </sys_ui_annotation>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>9637a0c61ba8b41015897596cc4bcb50</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:32</sys_created_on>
+            <sys_id>d637a0c61ba8b41015897596cc4bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Picture" display_value="Picture" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1c01e4821ba8b41015897596cc4bcb97</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:32</sys_updated_on>
+            <sys_user/>
+            <type>annotation</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>icon</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:32</sys_created_on>
+            <sys_id>5e37a0c61ba8b41015897596cc4bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Picture" display_value="Picture" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1c01e4821ba8b41015897596cc4bcb97</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>picture</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 04:02:32</sys_created_on>
+            <sys_id>d237a0c61ba8b41015897596cc4bcb54</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Picture" display_value="Picture" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1c01e4821ba8b41015897596cc4bcb97</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 04:02:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Picture</caption>
+            <header>false</header>
+            <name>x_563603_veh_rent_vehicle_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1c01e4821ba8b41015897596cc4bcb97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_563603_veh_rent_vehicle_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+            <sys_update_name>sys_ui_section_1c01e4821ba8b41015897596cc4bcb97</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:22</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

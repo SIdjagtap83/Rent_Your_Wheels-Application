@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Portal Settings" section_id="1401e4821ba8b41015897596cc4bcb82" sys_domain="global" table="x_563603_veh_rent_vehicle_details" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>d401e4821ba8b41015897596cc4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>request_method</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>5c01e4821ba8b41015897596cc4bcb83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_cart_v2</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>d001e4821ba8b41015897596cc4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_quantity_v2</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>5801e4821ba8b41015897596cc4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>show_price_v2</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>dc01e4821ba8b41015897596cc4bcb84</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_delivery_time_v2</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>5401e4821ba8b41015897596cc4bcb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>d801e4821ba8b41015897596cc4bcb85</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_wishlist_v2</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>5001e4821ba8b41015897596cc4bcb86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>no_attachment_v2</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>d401e4821ba8b41015897596cc4bcb86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mandatory_attachment</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>5c01e4821ba8b41015897596cc4bcb86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_id>d001e4821ba8b41015897596cc4bcb87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Portal Settings" display_value="Portal Settings" name="x_563603_veh_rent_vehicle_details" sys_domain="global" view="Default view">1401e4821ba8b41015897596cc4bcb82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Portal Settings</caption>
+            <header>false</header>
+            <name>x_563603_veh_rent_vehicle_details</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-06 03:35:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1401e4821ba8b41015897596cc4bcb82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_563603_veh_rent_vehicle_details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rent_Your_Wheels" source="x_563603_veh_rent">b5a5141c1be8701015897596cc4bcb2d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rent_Your_Wheels">b5a5141c1be8701015897596cc4bcb2d</sys_scope>
+            <sys_update_name>sys_ui_section_1401e4821ba8b41015897596cc4bcb82</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-06 03:35:21</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
